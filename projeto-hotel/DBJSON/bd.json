@@ -1,0 +1,13 @@
+{
+    "produtos": 
+    [
+      {
+        "id": 1,
+        "nome": "Noote book intel - Mais ULTRA",
+        "valor": 2500,
+        "detalhes": "Processador XT 5 núcleo 420MB cache, Memória RAM 8GB, placa de vídeo AMR Rodeon 4GB",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfWI--ZYE5wJ6HxyedJF4J6wHD3nT5lYfMg&usqp=CAU"
+      }
+    ]
+  }
+  
